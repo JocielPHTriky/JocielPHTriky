@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" alt="Banner azul" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:145DA0,100:38BDF8&height=170&section=header&text=Jociel%20%7C%20Tecnologia%20com%20prop%C3%B3sito&fontColor=FFFFFF&fontSize=32&fontAlignY=35&animation=fadeIn" />
+  <img width="100%" alt="Banner azul" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:145DA0,100:38BDF8&height=170&section=header&text=Jociel%20%7C%20Dados%20e%20Tecnologia%20Fiscal&fontColor=FFFFFF&fontSize=32&fontAlignY=35&animation=fadeIn" />
 
   <h1>Olá, eu sou Jociel 👋</h1>
 
   <a href="https://github.com/JocielPHTriky">
-    <img alt="Apresentação animada" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=55&lines=Python+%7C+SQL+%7C+Intelig%C3%AAncia+Artificial;Transformando+ideias+em+solu%C3%A7%C3%B5es;Aprendizado+cont%C3%ADnuo+e+colabora%C3%A7%C3%A3o" />
+    <img alt="Apresentação animada" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Ci%C3%AAncia+de+dados+aplicada+%C3%A0+%C3%A1rea+fiscal+e+tribut%C3%A1ria;Python+%7C+SQL+%7C+Intelig%C3%AAncia+Artificial;Dados+para+an%C3%A1lises+e+decis%C3%B5es+mais+precisas" />
   </a>
 
   <p>
@@ -15,15 +15,16 @@
 
 ## Sobre mim
 
-Sou entusiasta de tecnologia e construo minha trajetória na interseção entre **desenvolvimento, dados e inteligência artificial**. Gosto de transformar problemas em soluções claras, estudar novas ferramentas e compartilhar o que aprendo em projetos práticos.
+Atuo na interseção entre **ciência de dados e aplicação fiscal e tributária**, utilizando tecnologia para organizar informações, identificar padrões e apoiar análises mais precisas. Tenho interesse especial em transformar dados complexos em conhecimento útil para conferência, acompanhamento e tomada de decisão.
 
-Este perfil reúne meus experimentos, estudos e projetos. Meu foco é escrever soluções úteis, compreensíveis e em constante evolução.
+Combino **Python, SQL e inteligência artificial** para explorar dados, automatizar rotinas e desenvolver soluções claras e reproduzíveis. Este perfil reúne meus estudos, experimentos e projetos nessa direção.
 
-## Áreas de atuação e interesse
+## Competências e foco
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-145DA0?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Ciência de dados" src="https://img.shields.io/badge/Ci%C3%AAncia_de_Dados-145DA0?style=for-the-badge&logo=databricks&logoColor=white" />
   <img alt="Inteligência Artificial" src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-145DA0?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
@@ -31,11 +32,12 @@ Este perfil reúne meus experimentos, estudos e projetos. Meu foco é escrever s
 
 <br />
 
-| Área | O que me interessa construir |
+| Competência | Aplicação fiscal e tributária |
 | :--- | :--- |
-| **Python** | Automações, análises e aplicações que resolvem problemas reais. |
-| **SQL e dados** | Consultas, organização de informações e insights para apoiar decisões. |
-| **Inteligência artificial** | Aplicações responsáveis de IA para ampliar produtividade e criar novas possibilidades. |
+| **Ciência de dados** | Exploração, tratamento e análise de dados fiscais para encontrar padrões, inconsistências e oportunidades de melhoria. |
+| **Python** | Automação de rotinas, validação de dados e construção de análises reproduzíveis. |
+| **SQL** | Consulta e cruzamento de bases para apoiar conciliações, auditorias e relatórios. |
+| **Inteligência artificial** | Apoio à classificação, à análise de documentos e à produtividade, com atenção à revisão humana dos resultados. |
 
 ## Meu GitHub em movimento
 
@@ -50,7 +52,7 @@ Este perfil reúne meus experimentos, estudos e projetos. Meu foco é escrever s
 
 ## Projetos em destaque
 
-> Esta seção cresce junto com o meu portfólio. Confira os repositórios para ver o código, a documentação e a evolução de cada projeto.
+> Esta seção cresce junto com o meu portfólio. Confira os repositórios para acompanhar projetos de dados, automação e aplicações voltadas ao contexto fiscal e tributário.
 
 <div align="center">
   <a href="https://github.com/JocielPHTriky?tab=repositories">
@@ -60,10 +62,11 @@ Este perfil reúne meus experimentos, estudos e projetos. Meu foco é escrever s
 
 ## Vamos nos conectar
 
-Se você se interessa por **Python, dados ou inteligência artificial**, será um prazer trocar ideias e colaborar. Conheça meus projetos ou entre em contato pelo próprio GitHub.
+Se você se interessa por **ciência de dados aplicada à área fiscal e tributária**, automação ou inteligência artificial, será um prazer trocar ideias e colaborar. Conheça meus projetos ou entre em contato pelo próprio GitHub.
 
 <div align="center">
   <a href="https://github.com/JocielPHTriky"><img alt="Perfil de Jociel no GitHub" src="https://img.shields.io/badge/GitHub-JocielPHTriky-0B1220?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <img width="100%" alt="Rodapé azul" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:145DA0,100:38BDF8&height=110&section=footer" />
+
