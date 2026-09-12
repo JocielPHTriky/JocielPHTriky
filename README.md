@@ -52,11 +52,28 @@ Combino **Python, SQL e inteligência artificial** para explorar dados, automati
 
 ## Projetos em destaque
 
-> Esta seção cresce junto com o meu portfólio. Confira os repositórios para acompanhar projetos de dados, automação e aplicações voltadas ao contexto fiscal e tributário.
+### Distribuição Inteligente de Atividades · GEAR
+
+Aplicação para **organizar tarefas, competências, usuários e distribuição de CNPJs**, com acompanhamento do andamento das atividades. O projeto conecta gestão operacional e tecnologia para dar mais clareza ao trabalho da equipe.
+
+[**Abrir aplicação**](https://distribuicao-tarefas-premio-1.onrender.com/) · [**Ver código no GitHub**](https://github.com/JocielPHTriky/distribuicao_tarefas_premio)
+
+### Conversor de Arquivos DET
+
+Ferramenta de **conversão e preparação de planilhas DET** para apoiar rotinas de tratamento de dados. A demonstração está integrada ao meu portfólio e processa a planilha localmente no navegador.
+
+[**Acessar no portfólio**](https://inteligencia-fiscal-ia.jocielfreitas.chatgpt.site) · *O portfólio solicita login para acesso.*
+
+<br />
+
+Meu portfólio reúne essas aplicações e outras iniciativas de inteligência fiscal, automação e análise de dados.
 
 <div align="center">
+  <a href="https://inteligencia-fiscal-ia.jocielfreitas.chatgpt.site">
+    <img alt="Abrir portfólio de inteligência fiscal" src="https://img.shields.io/badge/Conhecer_o_portf%C3%B3lio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
   <a href="https://github.com/JocielPHTriky?tab=repositories">
-    <img alt="Ver repositórios de Jociel" src="https://img.shields.io/badge/Ver_todos_os_reposit%C3%B3rios-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Ver repositórios de Jociel" src="https://img.shields.io/badge/Ver_reposit%C3%B3rios-0B1220?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -69,4 +86,3 @@ Se você se interessa por **ciência de dados aplicada à área fiscal e tribut�
 </div>
 
 <img width="100%" alt="Rodapé azul" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:145DA0,100:38BDF8&height=110&section=footer" />
-
