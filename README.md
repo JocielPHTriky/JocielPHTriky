@@ -67,4 +67,3 @@ Se você se interessa por **Python, dados ou inteligência artificial**, será u
 </div>
 
 <img width="100%" alt="Rodapé azul" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:145DA0,100:38BDF8&height=110&section=footer" />
-
